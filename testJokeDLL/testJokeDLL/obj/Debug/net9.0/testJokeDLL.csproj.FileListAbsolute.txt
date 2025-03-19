@@ -1,0 +1,17 @@
+D:\development\itStep\системное\system_programming\testJokeDLL\testJokeDLL\bin\Debug\net9.0\testJokeDLL.exe
+D:\development\itStep\системное\system_programming\testJokeDLL\testJokeDLL\bin\Debug\net9.0\testJokeDLL.deps.json
+D:\development\itStep\системное\system_programming\testJokeDLL\testJokeDLL\bin\Debug\net9.0\testJokeDLL.runtimeconfig.json
+D:\development\itStep\системное\system_programming\testJokeDLL\testJokeDLL\bin\Debug\net9.0\testJokeDLL.dll
+D:\development\itStep\системное\system_programming\testJokeDLL\testJokeDLL\bin\Debug\net9.0\testJokeDLL.pdb
+D:\development\itStep\системное\system_programming\testJokeDLL\testJokeDLL\bin\Debug\net9.0\jokeDLL.dll
+D:\development\itStep\системное\system_programming\testJokeDLL\testJokeDLL\obj\Debug\net9.0\testJokeDLL.csproj.AssemblyReference.cache
+D:\development\itStep\системное\system_programming\testJokeDLL\testJokeDLL\obj\Debug\net9.0\testJokeDLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\development\itStep\системное\system_programming\testJokeDLL\testJokeDLL\obj\Debug\net9.0\testJokeDLL.AssemblyInfoInputs.cache
+D:\development\itStep\системное\system_programming\testJokeDLL\testJokeDLL\obj\Debug\net9.0\testJokeDLL.AssemblyInfo.cs
+D:\development\itStep\системное\system_programming\testJokeDLL\testJokeDLL\obj\Debug\net9.0\testJokeDLL.csproj.CoreCompileInputs.cache
+D:\development\itStep\системное\system_programming\testJokeDLL\testJokeDLL\obj\Debug\net9.0\testJoke.FE1ACD81.Up2Date
+D:\development\itStep\системное\system_programming\testJokeDLL\testJokeDLL\obj\Debug\net9.0\testJokeDLL.dll
+D:\development\itStep\системное\system_programming\testJokeDLL\testJokeDLL\obj\Debug\net9.0\refint\testJokeDLL.dll
+D:\development\itStep\системное\system_programming\testJokeDLL\testJokeDLL\obj\Debug\net9.0\testJokeDLL.pdb
+D:\development\itStep\системное\system_programming\testJokeDLL\testJokeDLL\obj\Debug\net9.0\testJokeDLL.genruntimeconfig.cache
+D:\development\itStep\системное\system_programming\testJokeDLL\testJokeDLL\obj\Debug\net9.0\ref\testJokeDLL.dll

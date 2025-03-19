@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DaPjQIq6tZA=",
+  "success": true,
+  "projectFilePath": "D:\\development\\itStep\\системное\\system_programming\\testJokeDLL\\testJokeDLL\\testJokeDLL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alina\\.nuget\\packages\\com.devitfro.jokedll\\1.0.0\\com.devitfro.jokedll.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

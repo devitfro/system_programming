@@ -1,0 +1,33 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+
+	  <!-- метаданные для NuGet пакета -->
+	  <PackageId>com.devitfro.jokeDLL</PackageId>
+	  <!-- тут укажите свой УНИКАЛЬНЫЙ ID пакета -->
+	  <Version>1.0.0</Version>
+	  <!-- укажите версию пакета -->
+	  <Authors>devitfro</Authors>
+	  <!-- укажите ваше имя -->
+	  <Company>Devitfro</Company>
+	  <!-- укажите компанию, если применимо -->
+	  <Description>My first nuget package</Description>
+	  <!-- краткое описание пакета -->
+	  <PackageLicenseExpression>MIT</PackageLicenseExpression>
+	  <!-- лицензия пакета -->
+	  <PackageProjectUrl>https://github.com/devitfro</PackageProjectUrl>
+	  <!-- URL вашего проекта, если есть -->
+	  <RepositoryUrl>https://github.com/devitfro</RepositoryUrl>
+	  <!-- URL репозитория на GitHub, если есть -->
+	  <PackageReadmeFile>README.md</PackageReadmeFile>	  
+  </PropertyGroup>
+
+	<ItemGroup>
+		<None Include="README.md" Pack="true" PackagePath="\"/>
+	</ItemGroup>
+</Project>
+
+

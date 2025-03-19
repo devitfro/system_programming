@@ -1,0 +1,11 @@
+D:\development\itStep\системное\system_programming\jokeDLL\jokeDLL\bin\Release\net9.0\jokeDLL.deps.json
+D:\development\itStep\системное\system_programming\jokeDLL\jokeDLL\bin\Release\net9.0\jokeDLL.dll
+D:\development\itStep\системное\system_programming\jokeDLL\jokeDLL\bin\Release\net9.0\jokeDLL.pdb
+D:\development\itStep\системное\system_programming\jokeDLL\jokeDLL\obj\Release\net9.0\jokeDLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\development\itStep\системное\system_programming\jokeDLL\jokeDLL\obj\Release\net9.0\jokeDLL.AssemblyInfoInputs.cache
+D:\development\itStep\системное\system_programming\jokeDLL\jokeDLL\obj\Release\net9.0\jokeDLL.AssemblyInfo.cs
+D:\development\itStep\системное\system_programming\jokeDLL\jokeDLL\obj\Release\net9.0\jokeDLL.csproj.CoreCompileInputs.cache
+D:\development\itStep\системное\system_programming\jokeDLL\jokeDLL\obj\Release\net9.0\jokeDLL.dll
+D:\development\itStep\системное\system_programming\jokeDLL\jokeDLL\obj\Release\net9.0\refint\jokeDLL.dll
+D:\development\itStep\системное\system_programming\jokeDLL\jokeDLL\obj\Release\net9.0\jokeDLL.pdb
+D:\development\itStep\системное\system_programming\jokeDLL\jokeDLL\obj\Release\net9.0\ref\jokeDLL.dll
