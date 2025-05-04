@@ -1,0 +1,10 @@
+D:\development\itStep\системное\system_programming\task_manager\task_manager\obj\Debug\task_manager.csproj.AssemblyReference.cache
+D:\development\itStep\системное\system_programming\task_manager\task_manager\obj\Debug\task_manager.Form1.resources
+D:\development\itStep\системное\system_programming\task_manager\task_manager\obj\Debug\task_manager.Properties.Resources.resources
+D:\development\itStep\системное\system_programming\task_manager\task_manager\obj\Debug\task_manager.csproj.GenerateResource.cache
+D:\development\itStep\системное\system_programming\task_manager\task_manager\obj\Debug\task_manager.csproj.CoreCompileInputs.cache
+D:\development\itStep\системное\system_programming\task_manager\task_manager\bin\Debug\task_manager.exe.config
+D:\development\itStep\системное\system_programming\task_manager\task_manager\bin\Debug\task_manager.exe
+D:\development\itStep\системное\system_programming\task_manager\task_manager\bin\Debug\task_manager.pdb
+D:\development\itStep\системное\system_programming\task_manager\task_manager\obj\Debug\task_manager.exe
+D:\development\itStep\системное\system_programming\task_manager\task_manager\obj\Debug\task_manager.pdb

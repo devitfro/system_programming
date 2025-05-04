@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\development\\itStep\\\u0441\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u0435\\system_programming\\task_manager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCBFAB8A-AA17-4ED2-8DBD-F8418CE86F78}|task_manager\\task_manager.csproj|D:\\development\\itStep\\\u0441\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u0435\\system_programming\\task_manager\\task_manager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DCBFAB8A-AA17-4ED2-8DBD-F8418CE86F78}|task_manager\\task_manager.csproj|solutionrelative:task_manager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCBFAB8A-AA17-4ED2-8DBD-F8418CE86F78}|task_manager\\task_manager.csproj|d:\\development\\itstep\\\u0441\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u0435\\system_programming\\task_manager\\task_manager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCBFAB8A-AA17-4ED2-8DBD-F8418CE86F78}|task_manager\\task_manager.csproj|solutionrelative:task_manager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCBFAB8A-AA17-4ED2-8DBD-F8418CE86F78}|task_manager\\task_manager.csproj|D:\\development\\itStep\\\u0441\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u0435\\system_programming\\task_manager\\task_manager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCBFAB8A-AA17-4ED2-8DBD-F8418CE86F78}|task_manager\\task_manager.csproj|solutionrelative:task_manager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\\u0441\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u0435\\system_programming\\task_manager\\task_manager\\Program.cs",
+              "RelativeDocumentMoniker": "task_manager\\Program.cs",
+              "ToolTip": "D:\\development\\itStep\\\u0441\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u0435\\system_programming\\task_manager\\task_manager\\Program.cs",
+              "RelativeToolTip": "task_manager\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T18:32:24.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\\u0441\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u0435\\system_programming\\task_manager\\task_manager\\Form1.cs",
+              "RelativeDocumentMoniker": "task_manager\\Form1.cs",
+              "ToolTip": "D:\\development\\itStep\\\u0441\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u0435\\system_programming\\task_manager\\task_manager\\Form1.cs",
+              "RelativeToolTip": "task_manager\\Form1.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAADsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T18:02:39.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\development\\itStep\\\u0441\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u0435\\system_programming\\task_manager\\task_manager\\Form1.cs",
+              "RelativeDocumentMoniker": "task_manager\\Form1.cs",
+              "ToolTip": "D:\\development\\itStep\\\u0441\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u0435\\system_programming\\task_manager\\task_manager\\Form1.cs [Design]",
+              "RelativeToolTip": "task_manager\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T18:01:57.961Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
