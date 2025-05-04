@@ -1,0 +1,10 @@
+D:\development\itStep\системное\system_programming\async\async\obj\Debug\async.csproj.AssemblyReference.cache
+D:\development\itStep\системное\system_programming\async\async\obj\Debug\async.Form1.resources
+D:\development\itStep\системное\system_programming\async\async\obj\Debug\async.Properties.Resources.resources
+D:\development\itStep\системное\system_programming\async\async\obj\Debug\async.csproj.GenerateResource.cache
+D:\development\itStep\системное\system_programming\async\async\obj\Debug\async.csproj.CoreCompileInputs.cache
+D:\development\itStep\системное\system_programming\async\async\bin\Debug\async.exe.config
+D:\development\itStep\системное\system_programming\async\async\bin\Debug\async.exe
+D:\development\itStep\системное\system_programming\async\async\bin\Debug\async.pdb
+D:\development\itStep\системное\system_programming\async\async\obj\Debug\async.exe
+D:\development\itStep\системное\system_programming\async\async\obj\Debug\async.pdb
