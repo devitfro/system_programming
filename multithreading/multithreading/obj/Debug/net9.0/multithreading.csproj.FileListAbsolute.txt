@@ -1,0 +1,15 @@
+D:\development\itStep\системное\system_programming\multithreading\multithreading\bin\Debug\net9.0\multithreading.exe
+D:\development\itStep\системное\system_programming\multithreading\multithreading\bin\Debug\net9.0\multithreading.deps.json
+D:\development\itStep\системное\system_programming\multithreading\multithreading\bin\Debug\net9.0\multithreading.runtimeconfig.json
+D:\development\itStep\системное\system_programming\multithreading\multithreading\bin\Debug\net9.0\multithreading.dll
+D:\development\itStep\системное\system_programming\multithreading\multithreading\bin\Debug\net9.0\multithreading.pdb
+D:\development\itStep\системное\system_programming\multithreading\multithreading\obj\Debug\net9.0\multithreading.GeneratedMSBuildEditorConfig.editorconfig
+D:\development\itStep\системное\system_programming\multithreading\multithreading\obj\Debug\net9.0\multithreading.AssemblyInfoInputs.cache
+D:\development\itStep\системное\system_programming\multithreading\multithreading\obj\Debug\net9.0\multithreading.AssemblyInfo.cs
+D:\development\itStep\системное\system_programming\multithreading\multithreading\obj\Debug\net9.0\multithreading.csproj.CoreCompileInputs.cache
+D:\development\itStep\системное\system_programming\multithreading\multithreading\obj\Debug\net9.0\multithreading.sourcelink.json
+D:\development\itStep\системное\system_programming\multithreading\multithreading\obj\Debug\net9.0\multithreading.dll
+D:\development\itStep\системное\system_programming\multithreading\multithreading\obj\Debug\net9.0\refint\multithreading.dll
+D:\development\itStep\системное\system_programming\multithreading\multithreading\obj\Debug\net9.0\multithreading.pdb
+D:\development\itStep\системное\system_programming\multithreading\multithreading\obj\Debug\net9.0\multithreading.genruntimeconfig.cache
+D:\development\itStep\системное\system_programming\multithreading\multithreading\obj\Debug\net9.0\ref\multithreading.dll
