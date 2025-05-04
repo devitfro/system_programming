@@ -1,0 +1,10 @@
+05.05.2025 00:39:34: Search started in directory: C:\test with mask: *.txt
+05.05.2025 00:39:34: Found file: C:\test\test1.txt
+05.05.2025 00:39:34: Found file: C:\test\test2.txt
+05.05.2025 00:39:34: Found file: C:\test\test3.txt
+05.05.2025 00:39:35: Search completed.
+Search started in directory: C:\test with mask: *.txt
+Found file: C:\test\test1.txt
+Found file: C:\test\test2.txt
+Found file: C:\test\test3.txt
+Search completed.

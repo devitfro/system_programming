@@ -1,0 +1,10 @@
+D:\development\itStep\системное\system_programming\searchFile\searchFile\bin\Debug\searchFile.exe.config
+D:\development\itStep\системное\system_programming\searchFile\searchFile\bin\Debug\searchFile.exe
+D:\development\itStep\системное\system_programming\searchFile\searchFile\bin\Debug\searchFile.pdb
+D:\development\itStep\системное\system_programming\searchFile\searchFile\obj\Debug\searchFile.csproj.AssemblyReference.cache
+D:\development\itStep\системное\system_programming\searchFile\searchFile\obj\Debug\searchFile.Form1.resources
+D:\development\itStep\системное\system_programming\searchFile\searchFile\obj\Debug\searchFile.Properties.Resources.resources
+D:\development\itStep\системное\system_programming\searchFile\searchFile\obj\Debug\searchFile.csproj.GenerateResource.cache
+D:\development\itStep\системное\system_programming\searchFile\searchFile\obj\Debug\searchFile.csproj.CoreCompileInputs.cache
+D:\development\itStep\системное\system_programming\searchFile\searchFile\obj\Debug\searchFile.exe
+D:\development\itStep\системное\system_programming\searchFile\searchFile\obj\Debug\searchFile.pdb
