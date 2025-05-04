@@ -1,0 +1,10 @@
+D:\development\itStep\системное\system_programming\tpl\tpl\obj\Debug\tpl.csproj.AssemblyReference.cache
+D:\development\itStep\системное\system_programming\tpl\tpl\obj\Debug\tpl.Form1.resources
+D:\development\itStep\системное\system_programming\tpl\tpl\obj\Debug\tpl.Properties.Resources.resources
+D:\development\itStep\системное\system_programming\tpl\tpl\obj\Debug\tpl.csproj.GenerateResource.cache
+D:\development\itStep\системное\system_programming\tpl\tpl\obj\Debug\tpl.csproj.CoreCompileInputs.cache
+D:\development\itStep\системное\system_programming\tpl\tpl\bin\Debug\tpl.exe.config
+D:\development\itStep\системное\system_programming\tpl\tpl\bin\Debug\tpl.exe
+D:\development\itStep\системное\system_programming\tpl\tpl\bin\Debug\tpl.pdb
+D:\development\itStep\системное\system_programming\tpl\tpl\obj\Debug\tpl.exe
+D:\development\itStep\системное\system_programming\tpl\tpl\obj\Debug\tpl.pdb
