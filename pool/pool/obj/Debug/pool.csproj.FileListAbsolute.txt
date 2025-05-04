@@ -1,0 +1,10 @@
+D:\development\itStep\системное\system_programming\pool\pool\bin\Debug\pool.exe.config
+D:\development\itStep\системное\system_programming\pool\pool\bin\Debug\pool.exe
+D:\development\itStep\системное\system_programming\pool\pool\bin\Debug\pool.pdb
+D:\development\itStep\системное\system_programming\pool\pool\obj\Debug\pool.csproj.AssemblyReference.cache
+D:\development\itStep\системное\system_programming\pool\pool\obj\Debug\pool.Form1.resources
+D:\development\itStep\системное\system_programming\pool\pool\obj\Debug\pool.Properties.Resources.resources
+D:\development\itStep\системное\system_programming\pool\pool\obj\Debug\pool.csproj.GenerateResource.cache
+D:\development\itStep\системное\system_programming\pool\pool\obj\Debug\pool.csproj.CoreCompileInputs.cache
+D:\development\itStep\системное\system_programming\pool\pool\obj\Debug\pool.exe
+D:\development\itStep\системное\system_programming\pool\pool\obj\Debug\pool.pdb
